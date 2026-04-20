@@ -6,7 +6,7 @@
 
 2. Download data. You can download all the datasets from [Autoformer](https://drive.google.com/drive/folders/1ZOYpTUa82_jCcxIdTmyr0LXQfvaM9vIy). Create a seperate folder ```./dataset``` and put all the csv files in the directory.
 
-### Multi-resolution Time Series Transformer (MTST) 
+### MWD-MFIC
 
 1. Training. All the scripts are in the directory ```./scripts/MWD-MFIC```. For example,
 ```
