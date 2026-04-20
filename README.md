@@ -10,7 +10,7 @@
 
 1. Training. All the scripts are in the directory ```./scripts/MWD-MFIC```. For example,
 ```
-sh ./scripts/MWD-MFIC/etth2.sh
+sh ./scripts/MWD_MFIC/etth2.sh
 ```
 
 
